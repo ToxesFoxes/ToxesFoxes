@@ -13,7 +13,7 @@
 ## About 📌
 
 #### Domain : Front-end Web Development 💻
-#### Skills : HTML, CSS, Javascript, Typescript, React, MySQL, PHP, Python, Java, Figma, Trello, Git, Github, Gitlab
+#### Skills : HTML, CSS, Less, JavaScript, TypeScript, React, MySQL, PHP, Python, С#, Bash, Java, Figma, Trello, Git, Github, Gitlab
 #### Interests : UX, UI Design, MinecraftPE modding ⚙️
 #### Learning : C++, Electron, Vue, Angular, Kotlin, Git Flow, Git Actions
 #### Hobbies : Read 📕, Play games 🎮, Music 🎧
