@@ -16,7 +16,7 @@
 #### Skills : HTML, CSS, Less, JavaScript, TypeScript, React, MySQL, PHP, Python, С#, Bash, Java, Figma, Trello, Git, Github, Gitlab
 #### Interests : UX, UI Design, MinecraftPE modding ⚙️
 #### Learning : C++, Electron, Vue, Angular, Kotlin, Git Flow, Git Actions
-#### Hobbies : Read 📕, Play games 🎮, Music 🎧
+#### Hobbies : Read 📕, Play games 🎮, Listen music 🎧
 
 <hr>
 
