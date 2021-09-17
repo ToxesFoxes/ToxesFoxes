@@ -1,6 +1,6 @@
 
 <div align="center">
-<h2> ToxesFoxes 🦊</h2>
+<h1> ToxesFoxes 🦊</h1>
 
 [![Outlook Badge](https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&labelColor=0078D4&logo=microsoftoutlook&logoColor=white&link=mailto:toxes_foxes@outlook.com)](https://www.twitter.com/toxesfoxes/)
 [![VK Badge](https://img.shields.io/badge/-Вконтакте-4680C2?style=flat-square&logo=vk&logoColor=white)](https://vk.com/toxesfoxes)
