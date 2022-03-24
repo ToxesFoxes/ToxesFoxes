@@ -20,8 +20,6 @@
 #### Hobbies : Read 📕, Play games 🎮, Listen music 🎧
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=toxesfoxes&bg_color=30,FD6B19,FE1E07&title_color=fff&text_color=fff&hide_border=true&show_icons=true&icon_color=fff&count_private=true&custom_title=My%20Stats" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toxesfoxes&layout=compact&bg_color=30,FD6B19,FE1E07&title_color=fff&text_color=fff&hide_border=true&custom_title=I%20use" />
 </div>
 
 <!--
