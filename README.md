@@ -14,8 +14,8 @@
 </div>
 
 #### Domain : FullStack Web Development 💻
-#### Skills : HTML, CSS, Less, JavaScript, TypeScript, React, Vue, SvelteKit, Laravel, MySQL, PHP, Python, С#, Bash, Java, Figma
-#### Interests : UX, UI Design, MinecraftPE modding ⚙️
+#### Skills : HTML, CSS, Less, JavaScript, TypeScript, NodeJS, React, Vue, SvelteKit, Laravel, MySQL, PHP, Python, С#, Bash, Java, Figma
+#### Interests : UI/UX Design 🖌️, MinecraftPE modding ⚙️
 #### Learning : C++, Angular, Kotlin, Git Flow, Git Actions
 #### Hobbies : Read 📕, Play games 🎮, Listen music 🎧
 #### Games : Minecraft, MC Dungeons, Genshin Impact, Terraria, Starbound
