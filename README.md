@@ -13,17 +13,14 @@
   <h2> About 📌</h2>
 </div>
 
-#### Domain : Front-end Web Development 💻
-#### Skills : HTML, CSS, Less, JavaScript, TypeScript, React, MySQL, PHP, Python, С#, Bash, Java, Figma, Trello, Git, Github, Gitlab
+#### Domain : FullStack Web Development 💻
+#### Skills : HTML, CSS, Less, JavaScript, TypeScript, React, Vue, SvelteKit, Laravel, MySQL, PHP, Python, С#, Bash, Java, Figma
 #### Interests : UX, UI Design, MinecraftPE modding ⚙️
-#### Learning : C++, Electron, Vue, Angular, Kotlin, Git Flow, Git Actions
+#### Learning : C++, Angular, Kotlin, Git Flow, Git Actions
 #### Hobbies : Read 📕, Play games 🎮, Listen music 🎧
+#### Games : Minecraft, MC Dungeons, Genshin Impact, Terraria, Starbound
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=toxesfoxes&bg_color=30,FD6B19,FE1E07&title_color=fff&text_color=fff&hide_border=true&show_icons=true&icon_color=fff&count_private=true&custom_title=My%20Stats" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toxesfoxes&layout=compact&bg_color=30,FD6B19,FE1E07&title_color=fff&text_color=fff&hide_border=true&custom_title=I%20use" />
 </div>
-
-<!--
-**ToxesFoxes/ToxesFoxes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
